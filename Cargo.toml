@@ -1,0 +1,11 @@
+[package]
+name = "alexa-dice"
+version = "0.1.0"
+authors = ["rmsthebest <11652273+rmsthebest@users.noreply.github.com>"]
+edition = "2018"
+readme = "README.md"
+
+[dependencies]
+alexa = "0.1"
+iron = "0.4"
+rand = "0.5"
